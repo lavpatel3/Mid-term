@@ -1,2 +1,3 @@
 # Mid-term Lav_Patel_het_shah
-This is our mid term project
+<img src="images/dog.jpg" alt="Image Alt Text" width="400" height="300">
+
